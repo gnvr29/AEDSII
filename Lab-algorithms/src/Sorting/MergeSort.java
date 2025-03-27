@@ -2,10 +2,6 @@ package Sorting;
 
 import Interfaces.ISorting;
 
-public class MergeSort<T extends Comparable<T>> implements ISorting<T>{
+public class MergeSort {
 
-    @Override
-    public void sort(Integer[] array) {
-
-    }
 }
